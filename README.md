@@ -111,7 +111,7 @@ This layout now exactly follows the structure you showed, clean and organized fo
 
 
 
-Advanced C# & .NET 10 Learning View (Visual Studio 2026)
+# Advanced C# & .NET 10 Learning View (Visual Studio 2026)
 
 Below is an advanced learning reference based on topics covered in official Microsoft Docs. These are not tutorials, but a structured view of advanced concepts you can explore.
 
