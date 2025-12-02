@@ -115,7 +115,7 @@ This layout now exactly follows the structure you showed, clean and organized fo
 
 Below is an advanced learning reference based on topics covered in official Microsoft Docs. These are not tutorials, but a structured view of advanced concepts you can explore.
 
-📘 Advanced C# Language
+## 📘 Advanced C# Language
 
 C# Language Specification
 
@@ -135,7 +135,7 @@ Attributes & Reflection
 
 Source Generators
 
-📘 Advanced OOP & Architecture
+## 📘 Advanced OOP & Architecture
 
 SOLID Principles
 
@@ -149,7 +149,7 @@ Encapsulation Best Practices
 
 Design Patterns (Factory, Singleton, Observer, etc.)
 
-📘 .NET 10 Runtime & Libraries
+## 📘 .NET 10 Runtime & Libraries
 
 .NET Standard & BCL
 
@@ -163,7 +163,7 @@ System.IO (Files, Streams, Pipelines)
 
 System.Text.Json (advanced serialization)
 
-📘 Performance & Optimization
+## 📘 Performance & Optimization
 
 Benchmarking using BenchmarkDotNet
 
@@ -177,7 +177,7 @@ Locking / Synchronization
 
 Channels & Pipelines
 
-📘 Modern .NET App Development
+## 📘 Modern .NET App Development
 
 Minimal APIs
 
@@ -193,7 +193,7 @@ gRPC
 
 SignalR
 
-📘 Tools & Ecosystem
+## 📘 Tools & Ecosystem
 
 Visual Studio 2026 IntelliCode+
 
@@ -205,7 +205,7 @@ Project SDKs
 
 Build Tools
 
-📘 Cloud & Deployment
+## 📘 Cloud & Deployment
 
 Docker with .NET
 
@@ -215,7 +215,7 @@ Azure App Services
 
 CI/CD Pipelines
 
-📘 Learning from Microsoft Docs
+## 📘 Learning from Microsoft Docs
 
 Below are recommended sections from Microsoft Learn / Docs you can explore:
 
