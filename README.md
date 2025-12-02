@@ -1,4 +1,3 @@
-# learn-c-546
 # Beginner C# & .NET 10 Learning View (Visual Studio 2026)
 
 Below is a clean **C# learning view** inspired by the structure you showed. It is **not a roadmap**, but a **reference layout** of all essential C# topics in the same order and style.
