@@ -107,3 +107,126 @@ Simple small tasks like:
 ---
 
 This layout now exactly follows the structure you showed, clean and organized for your own learning view.
+
+
+
+
+Advanced C# & .NET 10 Learning View (Visual Studio 2026)
+
+Below is an advanced learning reference based on topics covered in official Microsoft Docs. These are not tutorials, but a structured view of advanced concepts you can explore.
+
+📘 Advanced C# Language
+
+C# Language Specification
+
+Pattern Matching (advanced patterns)
+
+Records & Immutable Types
+
+Generics (advanced scenarios)
+
+Nullable Reference Types
+
+Unsafe Code & Pointers
+
+Memory Management & Span
+
+Attributes & Reflection
+
+Source Generators
+
+📘 Advanced OOP & Architecture
+
+SOLID Principles
+
+Dependency Injection
+
+Interfaces & Abstraction
+
+Inheritance Strategies
+
+Encapsulation Best Practices
+
+Design Patterns (Factory, Singleton, Observer, etc.)
+
+📘 .NET 10 Runtime & Libraries
+
+.NET Standard & BCL
+
+JIT, AOT, and NativeAOT improvements
+
+Task-based Asynchronous Model
+
+High-performance APIs
+
+System.IO (Files, Streams, Pipelines)
+
+System.Text.Json (advanced serialization)
+
+📘 Performance & Optimization
+
+Benchmarking using BenchmarkDotNet
+
+Memory Profiling
+
+Parallel Programming & TPL
+
+async / await deep dive
+
+Locking / Synchronization
+
+Channels & Pipelines
+
+📘 Modern .NET App Development
+
+Minimal APIs
+
+ASP.NET Core 10 Architecture
+
+Middleware Pipeline
+
+Entity Framework Core 10
+
+Web APIs & Versioning
+
+gRPC
+
+SignalR
+
+📘 Tools & Ecosystem
+
+Visual Studio 2026 IntelliCode+
+
+Roslyn Compiler Platform
+
+NuGet Package Creation
+
+Project SDKs
+
+Build Tools
+
+📘 Cloud & Deployment
+
+Docker with .NET
+
+Containerized Microservices
+
+Azure App Services
+
+CI/CD Pipelines
+
+📘 Learning from Microsoft Docs
+
+Below are recommended sections from Microsoft Learn / Docs you can explore:
+
+C# Guide
+
+.NET Fundamentals
+
+ASP.NET Core Guide
+
+EF Core Documentation
+
+.NET Runtime Documentation
+
+High-performance .NET
