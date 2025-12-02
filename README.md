@@ -232,4 +232,5 @@ EF Core Documentation
 High-performance .NET
 
 ### c# doc , ref :
-[c# documentation] (https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/ )
+[c# documentation](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/ )
+[language-reference](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/)
