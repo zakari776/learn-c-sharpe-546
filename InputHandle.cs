@@ -4,6 +4,25 @@ namespace SafeInputLibrary
 {
     public static class SafeInput
     {
+
+
+
+
+        public static void print(object value)
+        {
+            if (value == null)
+                Console.WriteLine("null");
+            else
+                Console.WriteLine(value);
+        }
+
+
+
+
+
+
+
+
         public static byte GetByte(string message = "Input")
         {
             while (true)
